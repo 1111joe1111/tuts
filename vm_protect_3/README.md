@@ -94,7 +94,7 @@ After compiling the initial source code with `mingw` open it up in VMProtect:
 
 ![alt text](screens/VMP.png)
 
-Add the function we want to virtualize.
+Add the function we want to virtualize (located at `0x401460`)
 
 ![alt text](screens/VMP2.png )
 
